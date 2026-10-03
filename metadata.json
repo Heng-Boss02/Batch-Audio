@@ -1,0 +1,6 @@
+{
+  "name": "Batch Audio Subtitle Exporter & Khmer Translator",
+  "description": "Batch transcribe folders of audio files with automatic language detection, optional Khmer subtitle translation, and individual or batch ZIP downloads matching audio file names.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
